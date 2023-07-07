@@ -1,0 +1,144 @@
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#about-me{
+    background-color: black;
+    color: white;
+}
+#row-about{
+   align-items: center; 
+}
+#about-me{
+    padding-left: 80px;
+}
+.span-1{
+    color: aqua;
+    font-size: xx-large;
+    font-family:Titan One;
+    text-transform: capitalize;
+}
+.i-classes{
+    color: aqua;
+    font-size: xx-large;
+}
+.col-i i{
+   
+  margin-left:60px ;
+}
+.my-image-h{
+    object-fit: cover;
+    height: 300px;
+    background-color: aqua;
+   
+
+}
+.my-image{
+  
+   -webkit-mask-image: url(data:image/svg+xml;base64,PCEtLT94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/LS0+CiAgICAgICAgICAgICAgPHN2ZyBpZD0ic3ctanMtYmxvYi1zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSI+CiAgICAgICAgICAgICAgICAgICAgPGRlZnM+IAogICAgICAgICAgICAgICAgICAgICAgICA8bGluZWFyR3JhZGllbnQgaWQ9InN3LWdyYWRpZW50IiB4MT0iMCIgeDI9IjEiIHkxPSIxIiB5Mj0iMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3RvcCBpZD0ic3RvcDEiIHN0b3AtY29sb3I9InJnYmEoMTMuMjAzLCAyMjEuNTQyLCAxNzkuMTk0LCAxKSIgb2Zmc2V0PSIwJSI+PC9zdG9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN0b3AgaWQ9InN0b3AyIiBzdG9wLWNvbG9yPSJyZ2JhKDcuNDQ4LCAyMzcuNDc5LCAyMzcuNDc5LCAxKSIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICAgICAgICAgICAgICAgICAgPC9kZWZzPgogICAgICAgICAgICAgICAgPHBhdGggZmlsbD0idXJsKCNzdy1ncmFkaWVudCkiIGQ9Ik0yMy44LC0yOC4yQzMxLjcsLTIxLjcsMzkuNSwtMTUsNDAsLTcuN0M0MC42LC0wLjMsMzMuOSw3LjcsMjguNiwxNi4yQzIzLjMsMjQuOCwxOS41LDMzLjgsMTIuNiwzNy43QzUuNyw0MS43LC00LjMsNDAuNCwtMTMuNiwzNy4xQy0yMi45LDMzLjksLTMxLjYsMjguNSwtMzYuNiwyMC43Qy00MS43LDEyLjgsLTQzLjIsMi41LC00MS42LC03LjVDLTQwLjEsLTE3LjUsLTM1LjUsLTI3LjIsLTI4LjEsLTMzLjhDLTIwLjYsLTQwLjMsLTEwLjMsLTQzLjgsLTEuMiwtNDIuNEM4LC00MSwxNS45LC0zNC43LDIzLjgsLTI4LjJaIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCA1MCkiIHN0cm9rZS13aWR0aD0iMCIgc3R5bGU9InRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2UgMHM7IiBzdHJva2U9InVybCgjc3ctZ3JhZGllbnQpIj48L3BhdGg+CiAgICAgICAgICAgICAgPC9zdmc+);
+    border-radius: 20px;
+    justify-content: center;
+    padding-left: 40px;
+}
+.i-class1{
+    color: aqua;
+    
+}
+.span-i{
+    margin-left: 50px;
+}
+.col-i-s{
+  
+}
+.lets-talk{
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+.my-button{
+    height: 40px;
+    width: 100px;
+    background-color: aqua;
+    border-color: aqua;
+    color: black;
+    border-radius: 10px;
+}
+.about{
+    margin-bottom: 40px;
+
+}
+.hr-1{
+    border: none;
+    border-top: 1px solid rgb(74, 75, 74);
+}
+.heading-p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:xx-large ;
+    
+}
+.quote{
+    display: flex;
+    justify-content: flex-end;
+}
+.checked{
+    color: orange;
+}
+
+
+.pr-image{
+  
+   height:150px;
+   width: 17rem;
+   border-radius: 10px;
+ 
+}
+.card-body{
+
+}
+.see-more{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    color: aqua;
+}
+.fa-arrow-right{
+    margin-left: 30px;
+    color: aqua;
+      
+}
+.contact-me{
+    background-color: rgb(12, 27, 27);
+    padding: 30px;
+    margin-top: 30px;
+    display: flex;
+    color: aliceblue;
+    border-radius: 20px;
+  margin-right: 20px;
+ 
+}
+.inputs{
+ 
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    padding-top: 20px;
+    
+    border-style:initial;
+    color: aliceblue;
+}
+form button{
+     margin-left: 70px;
+     margin-top: 50px;
+     border-radius: 10px;
+     background-color: aqua;
+}
+.h-tmn{
+    color:aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.p-profolio ,.pr{
+    color: aliceblue;
+}
